@@ -6,8 +6,8 @@ This summary is an attempt to provide a list of as much as possible meaningful a
 
 If you find any errors or want to change a description, feel free to contribute. 
 
-### Sorting a table on github
-Unfortunately github does not provide the functionality to sort table columns. There are attempts to create the table in JSON ([docs.gitlab.com](https://docs.gitlab.com/ee/user/markdown.html#json)), but github didn't implement this feature, yet. If it's really necessary for you to sort columns (which might be e.g. if you want to see all features at once), then you can use [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related) with the script [github-sort-content](https://github.com/Mottie/GitHub-userscripts/blob/master/github-sort-content.user.js).
+### Sorting a table on Github
+Unfortunately Github does not provide the functionality to sort table columns. There are attempts to create the table in JSON ([docs.gitlab.com](https://docs.gitlab.com/ee/user/markdown.html#json)), but Github didn't implement this feature, yet. If it's really necessary for you to sort columns (which might be e.g. if you want to see all features at once), then you can use [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related) with the script [github-sort-content](https://github.com/Mottie/GitHub-userscripts/blob/master/github-sort-content.user.js).
 
 ### Available ChangeLogs
 * [v12](Changelogs/v12.md)
