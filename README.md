@@ -1,6 +1,6 @@
 # TYPO3 ChangeLog Summary
 
-The [TYPO3 ChangeLog](https://docs.typo3.org/c/typo3/cms-core/main/en-us/Index.html) is the first reference to have a look at for changes applied to a new core version of TYPO3. Unfortunately the amount of entries on that page is overwhelming and because the respective headlines are phrased in too general terms, one has to open each article just to decide, whether the content even concerns one's scope.
+The [TYPO3 ChangeLog](https://docs.typo3.org/c/typo3/cms-core/main/en-us/Index.html) is the first reference for changes applied to a new core version of TYPO3. Unfortunately the amount of entries on that page is overwhelming and because the respective headlines are phrased in general terms, one has to open each article just to decide, whether the content even concerns one's scope.
 
 This summary is an attempt to provide a list of as much as possible meaningful and informative descriptions of each change, packed into a table which can be sorted after version, subject and link (see note below).
 
